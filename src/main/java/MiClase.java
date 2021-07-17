@@ -1,6 +1,6 @@
 public class MiClase {
     public static void main(String args[]) {
-        var a = 2;
+    int a = 2;
         if (a == 0) {
             System.out.println("El valor de a es 0");
         } else if (a == 1) {
